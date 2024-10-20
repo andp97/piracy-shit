@@ -2,6 +2,8 @@
 
 Un archivio di tutte le volte in cui Piracy Shield ha bloccato contenuti legittimi. Raccolgo anche post di persone autorevoli in materia che evidenziano problemi relativi al piracy shield 
 
+![Piracy Shit](public/images/piracy_shit.webp)
+
 
 ### Come contribuire?
 
