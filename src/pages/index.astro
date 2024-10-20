@@ -1,0 +1,35 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+
+			<h1>Benvenuti su {SITE_TITLE}</h1>
+			<h2>{SITE_DESCRIPTION}</h2>
+
+			<img src="/images/piracy_shit.webp" style="width: 400px; height: auto">
+
+			<p>
+				Questo sito è un archivio critico dedicato al <strong>Piracy Shield</strong> e alle sue conseguenze nel panorama digitale. Qui raccogliamo post, articoli e storie che analizzano le problematiche legate ai blocchi di IP e domini imposti da questa iniziativa.
+			</p>
+			<p>
+				Esplora i nostri contenuti per comprendere meglio come il Piracy Shield sta influenzando il web e quali sono le implicazioni per tutti noi.
+			</p>
+			<em>Testo powered by ChatGPT</em>
+
+			<a href="/blog">Vai agli articoli...</a>
+
+		</main>
+		<Footer />
+	</body>
+</html>
