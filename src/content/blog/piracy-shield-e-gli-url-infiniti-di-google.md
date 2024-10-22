@@ -11,3 +11,5 @@ heroImage: '/images/piracy_shit_landscape.webp'
 https://www.linkedin.com/posts/diego-ciulli-64936944_sotto-letichetta-di-contrasto-alla-pirateria-activity-7247151855678439426-Mk7e
 
 ![piracy-shield-e-gli-url-infiniti-di-google.png](/images/piracy-shield-e-gli-url-infiniti-di-google.png)
+
+Articolo: https://www.corriere.it/tecnologia/24_ottobre_07/piracy-shield-google-non-ci-sta-dovremmo-comunicare-ai-giudici-10-miliardi-di-violazioni-del-diritto-d-autore-78fdb3e3-9159-4b41-bfb7-d3ac24afaxlk.shtml

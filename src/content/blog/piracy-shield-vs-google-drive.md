@@ -23,3 +23,5 @@ https://x.com/matteosonoioo/status/1847725130673459295
 https://x.com/prevenzione/status/1847900276751007965
 
 ![piracy-shield-vs-google-drive-5.png](/images/piracy-shield-vs-google-drive-5.png)
+
+Articolo: https://www.wired.it/article/piracy-shield-blocco-google-drive-download/
