@@ -1,7 +1,7 @@
 ---
 title: "AGCOM diffida DAZN dopo la segnalazione dell'url di Google Drive"
 description: 'AGCOM si fa autogol e diffida DAZN per aver segnalato su Piracy Shield url di Google Drive'
-pubDate: 'Oct 4 2024'
+pubDate: 'Oct 24 2024'
 heroImage: '/images/piracy_shit_landscape.webp'
 ---
 
